@@ -1,22 +1,30 @@
-# Hi, I'm Siddesh Dharshan👋
+# Hi there, I'm Siddesh 👋
 
-## About Me
-🎓 Information Technology Engineering Student
+🎓 Information Technology Student
 
 💻 Frontend Developer
 
-🤖 Interested in AI, Machine Learning, and Full-Stack Development
+🤖 Interested in Artificial Intelligence & Machine Learning
 
-🌱 Currently learning React, Python, and Generative AI
-
-## Skills
-- HTML, CSS, JavaScript
+🌱 Currently Learning:
 - React
 - Python
-- Git & GitHub
 - Machine Learning
+- Full Stack Development
 
-## Connect With Me
- LinkedIn: https://www.linkedin.com/in/siddesh-dharshan-846979327
- 
- Email: siddeshdharshan138@gamil.com
+🛠️ Technologies:
+## 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,react,python,git,github,vscode" />
+</p>
+
+🚀 Projects:
+- AI Powered Voice Assistant Agent:
+• Developed an AI Voice Assistant capable of recognizing voice commands and responding using speech synthesis.   Implemented speech recognition, text-to-speech functionality, and AI-based query handling for interactive user communication.
+
+📫 Reach me at:
+- LinkedIn: https://www.linkedin.com/in/siddesh-dharshan-846979327/
+- Email: siddeshdharshan138@gmail.com
+
+⚡ "Learning, Building, and Growing Every Day."
