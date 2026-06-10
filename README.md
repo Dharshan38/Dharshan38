@@ -1,4 +1,4 @@
-# Hi there, I'm Siddesh 👋
+# Hi there, I'm Siddesh Dharshan 👋
 
 🎓 Information Technology Student
 
@@ -7,8 +7,6 @@
 🤖 Interested in Artificial Intelligence & Machine Learning
 
 🌱 Currently Learning:
-- React
-- Python
 - Machine Learning
 - Full Stack Development
 
