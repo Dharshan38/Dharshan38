@@ -27,6 +27,7 @@
   
 • Developed a full-stack home service booking platform that allows users to book household services such as plumbing, electrical repair, and cleaning. Implemented responsive frontend design, backend APIs, and database integration using MERN stack technologies.
 
+
 🏆 Achievements & Participation:
 
 * 🎯 **ArduinoTix'25** – Participant (21 February 2025)
@@ -46,6 +47,6 @@
 - LinkedIn: https://www.linkedin.com/in/siddesh-dharshan-846979327/
 - Email: siddeshdharshan138@gmail.com
 
-⚡ "Learning, Building, and Growing Every Day."
+                                ⚡ "Learning, Building, and Growing Every Day."
 
 
