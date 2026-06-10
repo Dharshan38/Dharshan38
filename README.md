@@ -10,7 +10,6 @@
 - Machine Learning
 - Full Stack Development
 
-🛠️ Technologies:
 ## 🛠️ Technologies & Tools
 
 <p align="left">
