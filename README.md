@@ -18,5 +18,5 @@
 
 ## Connect With Me
 - LinkedIn: https://www.linkedin.com/in/siddesh-dharshan-846979327
-<img width="174" height="148" alt="image" src="https://github.com/user-attachments/assets/e7c776bb-b412-4302-a2c4-9b1eb0275325" />
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e7c776bb-b412-4302-a2c4-9b1eb0275325" />
  Email: siddeshdharshan138@gamil.com
