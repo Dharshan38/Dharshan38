@@ -21,8 +21,10 @@
 
 🚀 Projects:
 - AI Powered Voice Assistant Agent:
+  
 • Developed an AI Voice Assistant capable of recognizing voice commands and responding using speech synthesis. Implemented speech recognition, text-to-speech functionality, and AI-based query handling for interactive user communication.
-- SmartFix - Home Service: 
+- SmartFix - Home Service:
+  
 • Developed a full-stack home service booking platform that allows users to book household services such as plumbing, electrical repair, and cleaning. Implemented responsive frontend design, backend APIs, and database integration using MERN stack technologies.
 
 🏆 Achievements & Participation:
