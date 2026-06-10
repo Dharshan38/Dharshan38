@@ -1,7 +1,7 @@
 # Hi, I'm Siddesh Dharshan👋
 
 ## About Me
-🎓 Computer Science Engineering Student
+🎓 Information Technology Engineering Student
 
 💻 Frontend Developer
 
