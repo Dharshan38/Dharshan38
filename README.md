@@ -5,6 +5,7 @@
 💻 Frontend Developer
 
 🤖 Interested Web Development and UI/UX
+
 🌱 Currently Learning:
 - UI/UX
 - Full Stack Development
