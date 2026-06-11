@@ -31,11 +31,11 @@
 
 * 🏛️ **Digital India RISC-V (DIR-V) Symposium 2025** – Participant at IIT Madras Research Park (2–3 March 2025)
 
-* 💡 **Israel–India Global Innovators Hackathon 2026** – Participated in a 38-hour Hackathon (5–6 January 2026)
+* 💡 **Israel–India Global Innovators 38' Hackathon 2026** – Participated in a 38-hour Hackathon (5–6 January 2026)
 
 * 🌐 **GOCOURSE Full-Stack Development Workshop** – Completed Online Workshop (21–22 February 2026)
 
-* 🏏 **SREC IPL'2K26** – Participant (26–27 February 2026)
+* 🏏 **SREC IPL Project Presentation '2K26** – Participant (26–27 February 2026)
 
 * 🤖 **AI Product Development Bootcamp Workshop** – Attended and Completed (4 March 2026)
 
