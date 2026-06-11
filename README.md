@@ -4,10 +4,9 @@
 
 💻 Frontend Developer
 
-🤖 Interested in Artificial Intelligence & Machine Learning
-
+🤖 Interested Web Development and UI/UX
 🌱 Currently Learning:
-- Machine Learning
+- UI/UX
 - Full Stack Development
 
 ## 🛠️ Technologies & Tools
